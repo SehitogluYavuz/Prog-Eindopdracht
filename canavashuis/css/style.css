@@ -1,0 +1,12 @@
+#canvasID {
+    background-color: rgb(3, 71, 110);
+    width: 600px;
+    height: 300px; display: flex;
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+    top: 50px;
+    
+}
